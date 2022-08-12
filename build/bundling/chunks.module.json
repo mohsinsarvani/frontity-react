@@ -1,0 +1,75 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "3a9e6a700d70c7b7de0f",
+  "publicPath": "",
+  "outputPath": "/Volumes/Projects/frontity-live/wpreact/build/static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "wpreact": "wpreact.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 47168,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "wpreact.module.js",
+      "size": 6909051,
+      "chunks": [
+        "wpreact"
+      ],
+      "chunkNames": [
+        "wpreact"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "wpreact": {
+      "chunks": [
+        "wpreact"
+      ],
+      "assets": [
+        "wpreact.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    },
+    {
+      "id": "wpreact",
+      "files": [
+        "wpreact.module.js"
+      ]
+    }
+  ]
+}
